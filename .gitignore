@@ -1,0 +1,10 @@
+# Jupyter files
+^.ipynb_*
+__pycache__
+
+# Thesis related
+Plots
+test_multicell
+test_notebooks
+ensemble_diauxic_growth_fitted_models
+test_multicell
