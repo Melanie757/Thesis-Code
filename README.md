@@ -1,6 +1,6 @@
 # Thesis-Code
 
-Jupyter notebooks containing the code used for the masters thesis "Autophagy in yeast Saccharomyces cerevisiae: single-cell and multi-cell model approaches".
+Jupyter notebooks containing the code used for the masters thesis "Autophagy in yeast Saccharomyces cerevisiae: single-cell and multi-cell model approaches" (https://mediatum.ub.tum.de/1578167).
 
 
 **figures.ipynb**: the code used to create most of the plots. The rest of the plots can be found in fitting.ipynb.<br>
